@@ -6,7 +6,7 @@
 
 ### 👨🏻‍💻 &nbsp; **Sobre mim**
 <li>
-  💻 &nbsp; .Lua | Javascript 
+  💻 &nbsp; .Lua | Css | Html | Javascript
 </li>
 <li>
   ✍️ &nbsp; Studying languages ​​of the future
